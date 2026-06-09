@@ -6,7 +6,7 @@
 	"USERNAME": "Nombre*",
 	"EMAIL": "Email*",
 	"POST": "Publicación",
-	"POWERED_BY": "Desarrollado por",
+	"POWERED_BY": "",
 	"LOADING": "Cargando...",
 	"REPLY": "Responder",
 	"DELETE": "Eliminar"
